@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedpickAssignment/static/css/main.48abc074.css",
+    "main.js": "/MedpickAssignment/static/js/main.9356f35e.js",
+    "static/js/453.d695d39c.chunk.js": "/MedpickAssignment/static/js/453.d695d39c.chunk.js",
+    "index.html": "/MedpickAssignment/index.html",
+    "main.48abc074.css.map": "/MedpickAssignment/static/css/main.48abc074.css.map",
+    "main.9356f35e.js.map": "/MedpickAssignment/static/js/main.9356f35e.js.map",
+    "453.d695d39c.chunk.js.map": "/MedpickAssignment/static/js/453.d695d39c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48abc074.css",
+    "static/js/main.9356f35e.js"
+  ]
+}
